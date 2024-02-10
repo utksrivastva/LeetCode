@@ -15,7 +15,3 @@ This repository contains my solutions to the coding problems on LeetCode. LeetCo
 ## Introduction
 
 LeetCode provides a platform for practicing coding skills through solving algorithm and data structure problems. This repository serves as a record of my solutions to these problems, helping me track my progress and potentially assisting others in learning and understanding different problem-solving approaches.
-
-## Directory Structure
-
-The repository is organized by problem category and difficulty level. Each category contains subdirectories for problems within that category.
