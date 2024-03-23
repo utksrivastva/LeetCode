@@ -6,9 +6,6 @@ This repository contains my solutions to the coding problems on LeetCode. LeetCo
 
 - [Introduction](#introduction)
 - [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 
 ## Introduction
 
